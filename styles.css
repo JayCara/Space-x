@@ -1,0 +1,41 @@
+body {
+    color: #c4a2ef;
+    margin: 0;
+
+    text-align: center;
+}
+
+/* This class defines the future font style */
+.futurefont {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700; /* You can choose a value from 400 to 900 */
+    font-style: normal;
+}
+
+#main-logo {
+    width: 200px;
+}
+/* This class styles the apply button */
+
+.btn {
+    font-size: 16px;
+    background: white;
+    padding: 6px 12px;
+    color: #c4a2ef;
+    border: none;
+    font-family: 'Orbitron',  sans-serif;
+    font-weight: 800;
+}
+
+.underline{
+    border-bottom: 4px solid #c4a2ef;
+}
+
+#hero{
+    background-image: url("images/giphy.webp");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+    text-shadow: 5px 5px 8px black;
+}
+
